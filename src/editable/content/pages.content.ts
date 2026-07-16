@@ -3,16 +3,16 @@ import { slot4BrandConfig } from '@/editable/theme/brand.config'
 export const pagesContent = {
   home: {
     metadata: {
-      title: 'Stories, visuals, and discoverable content',
-      description: 'Explore articles, images, listings, and curated posts through a cleaner reading-first experience.',
-      openGraphTitle: 'Stories, visuals, and discoverable content',
-      openGraphDescription: 'Discover articles, visual posts, and connected content through a calmer reading-first experience.',
-      keywords: ['story platform', 'article site', 'visual content', 'content discovery'],
+      title: 'Altasov — Ideas, stories and practical guides',
+      description: 'Read useful articles, informed perspectives, and practical guides on Altasov.',
+      openGraphTitle: 'Altasov — Ideas worth reading',
+      openGraphDescription: 'Thoughtful articles and practical guides for curious readers.',
+      keywords: ['practical articles', 'useful guides', 'expert insights', 'ideas and stories'],
     },
     hero: {
-      badge: 'Latest stories and visuals',
-      title: ['A thoughtful home for', 'stories, visuals, and discovery.'],
-      description: 'Explore fresh articles, image-led posts, and discoverable content across the platform through a calmer and clearer browsing experience.',
+      badge: 'Fresh from Altasov',
+      title: ['Ideas worth reading.', 'Stories worth sharing.'],
+      description: 'Explore useful perspectives, practical guides, and thoughtful articles in one continuously updated destination.',
       primaryCta: { label: 'Read latest stories', href: '/article' },
       secondaryCta: { label: 'Explore visuals', href: '/image' },
       searchPlaceholder: 'Search stories, visuals, listings, and more',
